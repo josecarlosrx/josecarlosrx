@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning RTMPS
 - 💞️ I’m looking to collaborate on Iconshot
-- 📫 How to reach me: Iconshot @josecarlosrx
+- 📫 How to reach me: Iconshot @jc
 
 <!---
 josecarlosrx/josecarlosrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
